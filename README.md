@@ -1,32 +1,23 @@
-# Work Planner Mobile Releases
+# Work Planner
 
-Welcome to the official release repository for **Work Planner** mobile updates.
+Plan smarter. Run smoother. Grow faster.
 
-This repository is used to publish over-the-air (OTA) bundle releases for the Work Planner app.  
-It is intentionally lightweight and may contain release assets only (not full source code).
+Work Planner helps service businesses stay in control of every day, from scheduling and team coordination to customer communication and cashflow confidence.
 
-## What This Repo Is For
+This repository is the official public home for Work Planner mobile app releases and update history.
 
-Each release here contains versioned mobile bundle assets used by the app updater:
+## Why Work Planner
 
-- `mobile-bundle.zip` - the web bundle delivered to the app
-- `mobile-manifest.json` - release metadata (version, channel, checksum, commit)
-- `mobile-bundle.sha256` - integrity checksum
+- Clear, practical planning tools that keep teams moving
+- Better visibility across jobs, customers, and progress
+- Built for real businesses that need reliability every day
 
-## Why It Exists
+## Explore Work Planner
 
-We separate release artifacts from the main application repository so updates are:
-
-- Fast to distribute
-- Easy to audit by version/tag
-- Cost-efficient to host
-- Reliable across staging and production channels
-
-## Looking for Work Planner?
-
-- Main website: [https://work-planner.co.uk](https://work-planner.co.uk)
-- Main application repo: [https://github.com/webnoob/work-planner](https://github.com/webnoob/work-planner)
+- Website: [https://work-planner.co.uk](https://work-planner.co.uk)
+- Product updates: [Releases](../../releases)
 
 ---
 
-Built and published automatically via CI/CD from the main Work Planner codebase.
+Work Planner  
+Built for teams that want less admin and more momentum.
